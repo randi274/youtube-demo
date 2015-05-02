@@ -1,0 +1,30 @@
+img {
+	height:250px;
+	width:250px;
+}
+
+td{
+	padding: 50 50;
+	border: 2px dashed white;
+	background-color: #ddeaf4;
+	text-align:center;
+}
+
+table{
+	height: 600px;
+	width: 800px;
+}
+
+.check{
+	clear:left;
+	padding:4px 7px 2px 4px;
+}
+
+input[checked]{
+	color:red;
+}
+
+.container {
+	width:800px;
+	text-align:center;
+}
